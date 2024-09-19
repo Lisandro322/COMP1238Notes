@@ -12,8 +12,9 @@
 - ( - Right parenthesis
 - ) - Left parenthesis
 
-### Video Links 
+### Useful Links 
  - [How to use GitHub] (https://www.youtube.com/watch?v=RGOj5yH7evk)
+ - [GitHub wiki] (https://en.wikipedia.org/wiki/GitHub)
  - [The link to My GitHub Repository] (https://github.com/Lisandro322/COMP1238Notes)
 
 ### Experiments
