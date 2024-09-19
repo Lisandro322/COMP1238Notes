@@ -8,7 +8,7 @@
 - $ - Dollar sign
 - % - Percentage
 - ^ - Caret
-- \* - Multiplication
+- \* - Asterisk
 - ( - Right parenthesis
 - ) - Left parenthesis
 
