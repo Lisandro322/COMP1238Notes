@@ -1,5 +1,5 @@
 # COMP1238Notes
-
+## By Lisandro
 
 ### List of symbols under 1,2,3...etc.
 - ! - Exclamation mark
@@ -22,3 +22,15 @@
 👈😎👉,
 👏😎,
 ✌️😎.
+
+### Keyboard shortcuts
+Shortcuts I Use Frequently:
+- Ctrl-C (Copy)
+- Alt+Tab (Switch open apps)
+- Ctrl-F (Search)
+
+Shortcuts I want to use more:
+- Ctrl-X (Cut)
+- End (Go to current line end)
+- Home (Go to current line start)
+
