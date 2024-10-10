@@ -34,3 +34,5 @@ Shortcuts I want to use more:
 - End (Go to current line end)
 - Home (Go to current line start)
 
+### Link to Cli file
+[Cli.md](doc/cli.md)
