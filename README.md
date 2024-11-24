@@ -39,3 +39,6 @@ Shortcuts I want to use more:
 
 ### Link to Lab11.sql
 [lab11.sql](/lab11.sql)
+
+### Link to Lab12.sql
+[https://github.com/Lisandro322/COMP1238Notes/blob/main/lab12.sql](https://github.com/Lisandro322/COMP1238Notes/blob/main/lab12.sql)
